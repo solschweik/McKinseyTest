@@ -1,4 +1,4 @@
-# McKinseyTests-1
+# McKinseyTest
 
 Prerequisite: node.js is installed and available on $PATH;
 
